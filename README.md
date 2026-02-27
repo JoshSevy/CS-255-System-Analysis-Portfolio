@@ -105,21 +105,3 @@ feedback early to ensure my assumptions are correct and avoid more work later.
 *Project timeline and milestones*
 
 ![Project Gantt Chart](assets/Module%204%20Gantt.jpg)
-
----
-
-## Technologies & Methodologies
-
-- **Analysis Tools**: UML (Use Case, Activity, Sequence, Class Diagrams)
-- **Design Patterns**: MVC Architecture, RESTful APIs
-- **Requirements Gathering**: Client interviews, stakeholder analysis
-- **Documentation**: Business requirements, technical specifications
-- **Project Management**: Gantt charts, timeline planning
-
-## About This Repository
-
-This repository was created as part of the CS-255 System Analysis and Design
-course at Southern New Hampshire University. It demonstrates the complete
-lifecycle of system analysis and design, from initial requirements gathering
-through final technical design specifications.
-
